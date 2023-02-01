@@ -17,7 +17,7 @@ I am exploring country to have a good experience with lot of people.
 
 # Phity Quotes
 
-> Even in hard times there's a possibility to have fun.
+> Even in hard times there's a possibility to have fun. -_Michel_
 >
-> Live for today and let tomorrow come later.
+> Live for today and let tomorrow come later. -_John_
 
