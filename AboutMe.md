@@ -15,6 +15,8 @@ I am exploring country to have a good experience with lot of people.
 |  Germany      |  To Visit Relatives   |  10                  |
 |  USA          |  To Study             |  800                 |
 
+---
+
 # Phity Quotes
 
 > Even in hard times there's a possibility to have fun. -_Michel_
